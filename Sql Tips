@@ -1,0 +1,2 @@
+Create Cumputed Column in SQL---
+ALTER TABLE <TableName> ADD <ColumnName> AS ABC+'_' +XYZ+ '_SomeOtherValue' 
